@@ -17,9 +17,11 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development**
+- 📝 I studying at **Microverse** 
 - 🌱 I’m currently learning **JavaScript and Jest**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
+- **Open to new job opportunities**
 
 
 
