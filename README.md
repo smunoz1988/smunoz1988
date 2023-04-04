@@ -17,9 +17,9 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **JavaScript and Python**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🌱 I’m currently learning **JavaScript and Jest**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
 
 
 <br/>
