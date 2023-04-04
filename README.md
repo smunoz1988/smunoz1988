@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **JavaScript and Jest**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
 
 
 
