@@ -19,6 +19,7 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **JavaScript and Jest**
 - 👯 I’m looking to collaborate on **Web Development Projects**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
 
