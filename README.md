@@ -16,12 +16,12 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 📝 I studying at **Microverse** 
-- 🌱 I’m currently learning **JavaScript and Jest**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
-- **Open to new job opportunities**
+ 🔭 I’m currently working on **Web Development**
+ 📝 I studying at **Microverse** 
+ 🌱 I’m currently learning **JavaScript and Jest**
+ 👯 I’m looking to collaborate on **Web Development Projects**
+ :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
+ **Open to new job opportunities**
 
 
 
@@ -49,7 +49,7 @@
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=3&origin=search&related_id=5968267"></code>
+<code><img height="40" width="40" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
