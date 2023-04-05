@@ -49,7 +49,7 @@
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
-<code><img height="40" width="40" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg"></code>
+<code><img height="40" width="40" src="https://www.atodocurso.com/sites/default/files/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
