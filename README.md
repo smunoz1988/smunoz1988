@@ -27,7 +27,8 @@
 :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
 <br />
 :raised_hand_with_fingers_splayed: **Open to new job opportunities**
-
+<br />
+📫 How to reach me? **santiago.munoz.chi@gmail.com**
 
 
 <br/>
