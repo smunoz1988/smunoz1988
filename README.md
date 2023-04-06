@@ -16,19 +16,19 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-🔭 I’m currently working on **Web Development** 
+🔭  I’m currently working on **Web Development** 
 <br />
-📝 I’m studying at **Microverse** 
+📝  I’m studying at **Microverse** 
 <br />
-🌱 I’m currently learning **JavaScript and Jest**
+🌱  I’m currently learning **JavaScript and Jest**
 <br />
-👯 I’m looking to collaborate on **Web Development Projects**
+👯  I’m looking to collaborate on **Web Development Projects**
 <br />
 :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260/)**
 <br />
-:raised_hand_with_fingers_splayed: **Open to new job opportunities**
+:raised_hand_with_fingers_splayed:  **Open to new job opportunities**
 <br />
-📫 How to reach me? **santiago.munoz.chi@gmail.com**
+📫  How to reach me? **santiago.munoz.chi@gmail.com**
 
 
 <br/>
